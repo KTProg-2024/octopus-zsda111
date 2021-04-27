@@ -1,13 +1,33 @@
  .website{
    font-size:20px;
+   border-style:dashed;
+   border-color:lightblue;
  }
- .boder{
+ .boader{
    color:purple;
+   border-style:solid;
+   border-color:lightblue;
  }
  .list{
    font-style:italic;
    font-size:15px;
+   color: red;
+   border-style:dashed;
+   border-color:lightblue;
  }
  h3{
-   font-style:arial; 
+   font-style:lobster; 
+ }
+ a{
+   font-size:20px;
+ }
+ .info{
+  color:goldenrod;
+  border-style:solid;
+  border-color:lightblue;
+ }
+ .end{
+ color:blueviolet;
+ border-style:dashed;
+ border-color:lightblue;
  }
